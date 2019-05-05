@@ -1,0 +1,8 @@
+/.vscode
+/__pycache__
+/data
+*.pyc
+/result
+*.npy
+*.jpg
+*.mat
